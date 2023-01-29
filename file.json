@@ -1,0 +1,33 @@
+
+{ 
+    "company1":{ 
+       "employee":{ 
+          "name":"emma",
+          "payble":{ 
+             "salary":7000,
+             "bonus":800
+          }
+       }
+    },
+    
+    "company2":{
+       "employee":{ 
+          "name":"emma",
+          "payble":{ 
+             "salary":9000,
+             "bonus":800
+          }
+       }
+    },
+    
+    "company3":{ 
+       "employee":{ 
+          "name":"emma",
+          "payble":{ 
+             "salary":5000,
+             "bonus":800
+          }
+       }
+    }
+ }
+ 
